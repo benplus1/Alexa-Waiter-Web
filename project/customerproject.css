@@ -1,0 +1,10 @@
+#container {
+  padding: 50px;
+  background-color: #EEE;
+}
+
+#container h1 {
+  font-size: 48px;
+  font-family; sans-serif;
+  color: #0080a8;
+}
